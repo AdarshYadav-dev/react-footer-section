@@ -1,11 +1,11 @@
-# 🌐 React Footer Section
+#  React Footer Section
 
 A modern, fully responsive **Footer Section** built using **React + SCSS**.  
 Includes email subscription, contact info, social media links, and copyright area — perfect for websites, portfolios, and landing pages.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Clean and modern UI  
 ✅ Built with React + SCSS  
@@ -17,14 +17,10 @@ Includes email subscription, contact info, social media links, and copyright are
 
 ---
 
-
----
-
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AdarshYadav-dev/react-footer-section.git
 
-```
 
